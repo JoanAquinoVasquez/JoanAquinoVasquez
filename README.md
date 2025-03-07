@@ -54,7 +54,7 @@
 
 ### Lenguajes:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,css&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,java,js,css&perline=5)](https://skillicons.dev)
 
 ### Habilidades:
 
