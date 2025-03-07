@@ -1,5 +1,4 @@
 <div align="center">
-![Welcome](https://media.giphy.com/media/l0DAI3HsR6sdPPqeY/giphy.gif)
 
 # 👋 ¡Hola! Soy Joan Aquino 👨‍💻
 
