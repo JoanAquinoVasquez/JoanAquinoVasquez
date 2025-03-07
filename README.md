@@ -11,9 +11,9 @@
 
 <div align="center">
   <p style="text-align: center;">
-    🏭 **Desarrollo web y arquitecturas de software**<br>
-    ☁ **Computación en la nube**<br>
-    🤖 **Inteligencia artificial y análisis de datos**<br>
+    🏭 **Desarrollo web y arquitecturas de software** <br>
+    ☁ **Computación en la nube** <br>
+    🤖 **Inteligencia artificial y análisis de datos** <br>
     📊 **Optimización de procesos y DevOps**
   </p>
 </div>
