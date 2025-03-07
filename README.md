@@ -1,5 +1,4 @@
 <div align="center">
-
 # 👋 ¡Hola! Soy Joan Aquino 👨‍💻
 
 💻 **Egresado de Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software. Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.
@@ -15,13 +14,10 @@
   </p>
 </div>
 
-
 🔍 **Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto**. Puedes encontrarme experimentando con frameworks modernos, mejorando el rendimiento de aplicaciones o compartiendo conocimientos en la comunidad tech.
 
 🌱 **Siempre en busca de nuevos retos y oportunidades para crecer.**
-
 ---
-
 ## 📧 Conéctate conmigo
 
 <div style="display: flex; gap: 10px;">
@@ -35,18 +31,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
-
 ---
-
 ## 🌐 Socials:
-
 <div align="center">
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/joan_aquino) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoanAquinoVasquez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joan_aquinovasquez/)
-
 </div>
-
 ---
 
 ### Lenguajes:
