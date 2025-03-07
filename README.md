@@ -9,16 +9,19 @@
 
 🚀 **Apasionado por la tecnología y la resolución de problemas**, siempre estoy aprendiendo y mejorando mis habilidades en:
 
-- 🏭 **Desarrollo web y arquitecturas de software**
-- ☁ **Computación en la nube**
-- 🤖 **Inteligencia artificial y análisis de datos**
-- 📊 **Optimización de procesos y DevOps**
+<div align="center">
+  <p style="text-align: center;">
+    🏭 **Desarrollo web y arquitecturas de software**<br>
+    ☁ **Computación en la nube**<br>
+    🤖 **Inteligencia artificial y análisis de datos**<br>
+    📊 **Optimización de procesos y DevOps**
+  </p>
+</div>
+
 
 🔍 **Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto**. Puedes encontrarme experimentando con frameworks modernos, mejorando el rendimiento de aplicaciones o compartiendo conocimientos en la comunidad tech.
 
 🌱 **Siempre en busca de nuevos retos y oportunidades para crecer.**
-
-
 
 ---
 
@@ -75,33 +78,11 @@
 
 ---
 
-## 📊 Experiencia Laboral
-
-### **UNIDAD DE RECURSOS HUMANOS – UNIVERSIDAD NACIONAL PEDRO RUIZ GALLO (01/10/2024 – 28/02/2025)**
-
-**Desarrollador Full Stack – Practicante**
-
-### **ESCUELA DE POSTGRADO – UNIVERSIDAD NACIONAL PEDRO RUIZ GALLO (07/02/2024 – 17/10/2024)**
-
-**Desarrollador Full Stack – Bolsa de Trabajo**
-
-### **Instituto Metropolitano de Planificación Territorial y Gestión Catastral - Municipalidad Provincial de Chiclayo (02/10/2023 - 25/11/2023)**
-
-**Analista de Datos y Soporte Técnico - Practicante Pre Profesional**
-
-### **Ingenio & Talento "INGYTAL" (09/10/2023 - 03/05/2024)**
-
-**Desarrollador Backend - Practicante Pre Profesional**
-
----
-
 ## 🏆 GitHub Stats:
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanAquinoVasquez&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoanAquinoVasquez&theme=tokyonight&hide_border=true)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanAquinoVasquez&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
