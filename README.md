@@ -1,8 +1,4 @@
 <div align="center">
-  
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxoOHl6bjl6aHpidWE3ajR1Z3JjYW9hNWtyMHpqbnRpN3RqYm44cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="auto" height="200" style="object-fit: cover; border-radius: 10px;"/>
-
-
 # 👋 ¡Hola! Soy Joan Aquino 👨‍💻
 
 💻 **Egresado de Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software. Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.
