@@ -1,28 +1,22 @@
-# 👋 ¡Hola! Soy Joan Aquino 👨‍💻  
+<div align="center">
+  
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFnZW9rOHJ4ZnB4aG50dDlmZGVwdjJiMzc4NTQ3dnRzd3E4eG1zZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-<table>
-  <tr>
-    <td>
-      💻 **Egresado de Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software.  
-      Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.  
+# 👋 ¡Hola! Soy Joan Aquino 👨‍💻
 
-      🚀 **Apasionado por la tecnología y la resolución de problemas**, siempre estoy aprendiendo y mejorando mis habilidades en:  
+💻 **Egresado de Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software. Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.
 
-      - 🏭 **Desarrollo web y arquitecturas de software**  
-      - ☁ **Computación en la nube**  
-      - 🤖 **Inteligencia artificial y análisis de datos**  
-      - 📊 **Optimización de procesos y DevOps**  
+🚀 **Apasionado por la tecnología y la resolución de problemas**, siempre estoy aprendiendo y mejorando mis habilidades en:
 
-      🔍 **Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto**.  
-      Puedes encontrarme experimentando con frameworks modernos, mejorando el rendimiento de aplicaciones o compartiendo conocimientos en la comunidad tech.  
+- 🏭 **Desarrollo web y arquitecturas de software**
+- ☁ **Computación en la nube**
+- 🤖 **Inteligencia artificial y análisis de datos**
+- 📊 **Optimización de procesos y DevOps**
 
-      🌱 **Siempre en busca de nuevos retos y oportunidades para crecer.**
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFnZW9rOHJ4ZnB4aG50dDlmZGVwdjJiMzc4NTQ3dnRzd3E4eG1zZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
-    </td>
-  </tr>
-</table>
+🔍 **Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto**. Puedes encontrarme experimentando con frameworks modernos, mejorando el rendimiento de aplicaciones o compartiendo conocimientos en la comunidad tech.
+
+🌱 **Siempre en busca de nuevos retos y oportunidades para crecer.**
+
 
 
 ---
