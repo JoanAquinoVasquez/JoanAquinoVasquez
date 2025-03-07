@@ -75,7 +75,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanAquinoVasquez&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoanAquinoVasquez&theme=tokyonight&hide_border=true)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=JoanAquinoVasquez&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=JoanAquinoVasquez&theme=tokyonight&hide_border=true))
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanAquinoVasquez&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
