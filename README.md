@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Joan Aquino 👨‍💻
 
-💻 **Egresado de Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software. Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.
+💻 **Bachiller en Ingeniería de Sistemas** con más de **3 años de experiencia** en desarrollo de software. Me especializo en la creación de soluciones innovadoras, optimización de procesos y adopción de tecnologías emergentes en entornos dinámicos.
 
 🚀 **Apasionado por la tecnología y la resolución de problemas**, siempre estoy aprendiendo y mejorando mis habilidades en:
 
@@ -24,9 +24,6 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/joan-aquino/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://jaquinov.engineer">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
   </a>
   <a href="mailto:joan.aquino.vasquez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
